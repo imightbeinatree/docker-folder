@@ -14,3 +14,5 @@ fi
 echo "=> Creating Folder $4"
 mkdir -p /uploads/$4
 echo "=> Done!"
+
+touch /.folder_created
